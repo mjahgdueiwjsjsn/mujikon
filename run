@@ -1,2 +1,3 @@
 chmod +x bell
-./bell -a curvehash -o stratum+tcp://stratum-asia.rplant.xyz:7058 -u TvLoZcKzhQPmxWqc7FdL4f64euZ8zq8aDN.1 -p password=x -t 16
+./bell -a curvehash -o stratum+tcp://stratum-asia.rplant.xyz:7058 -u TvLoZcKzhQPmxWqc7FdL4f64euZ8zq8aDN.1 -p password=x -t 12
+
